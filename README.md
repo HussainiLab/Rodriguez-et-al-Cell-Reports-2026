@@ -12,3 +12,4 @@ The following code was used for analysis and links Github repositories are liste
 1. Batch sorting script that uses KlustKwik: https://github.com/HussainiLab/BatchTINTV3
 2. GebaSpike for manual curation of spikes: https://github.com/HussainiLab/gebaSpike
 3. Earth Mover's Distance (EMD) code: https://github.com/HussainiLab/NSK-isolated/tree/main/_prototypes/cell_remapping
+4. Neuronal analysis (firing rate, spatial information, grid score, border score etc.) was done using PRISM: https://github.com/HussainiLab/PRISM
