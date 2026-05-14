@@ -11,4 +11,4 @@ It includes data in Excel format (.xlsx) listed below:
 The following code was used for analysis and links Github repositories are listed below:
 1. Batch sorting script that uses KlustKwik: https://github.com/HussainiLab/BatchTINTV3
 2. GebaSpike for manual curation of spikes: https://github.com/HussainiLab/gebaSpike
-3. Eearth Mover's Distance (EMD) code: https://github.com/HussainiLab/NSK-isolated/tree/main/_prototypes/cell_remapping
+3. Earth Mover's Distance (EMD) code: https://github.com/HussainiLab/NSK-isolated/tree/main/_prototypes/cell_remapping
